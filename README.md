@@ -11,7 +11,7 @@
   <li>git add README.md</li>
   <li>git commit -m "first commit"</li>
   <li>git branch -M main</li>
-  <li>git remote add origin git@github.com:hannahguay/ <em>name of project here<em></li>
+  <li>git remote add origin git@github.com:hannahguay/ <em>name of project here</em></li>
   <li>git push -u origin main</li>
 </ul>
 
