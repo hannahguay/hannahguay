@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Bash and other foundational skills.
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
-<h2>Recurring code:</h2>
+<h2>Collection of recurring code:</h2>
 <h3>Create new repository on the command line:</h3>
 <ul>
   <li>echo "# PromineoNotes" >> README.md</li>
