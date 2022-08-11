@@ -3,16 +3,17 @@
 - 🌱 I’m currently learning JavaScript, Bash and other foundational skills.
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
-<h1>Recurring code:</h1>
-<h2>Create new repository on the command line</h2>
-echo "# PromineoNotes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:hannahguay/PromineoNotes.git
-git push -u origin main
-
+<h2>Recurring code:</h2>
+<h3>Create new repository on the command line:</h3>
+<ul>
+  <li>echo "# PromineoNotes" >> README.md</li>
+  <li>git init</li>
+  <li>git add README.md</li>
+  <li>git commit -m "first commit"</li>
+  <li>git branch -M main</li>
+  <li>git remote add origin git@github.com:hannahguay/PromineoNotes.git</li>
+  <li>git push -u origin main</li>
+</ul>
 
 
 <!---
