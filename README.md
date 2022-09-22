@@ -5,7 +5,7 @@
 <h2>Collection of recurring code:</h2>
 <h3>Create new repository on the command line:</h3>
 <ul>
-  <li>echo "# PromineoNotes" >> README.md</li>
+  <li>echo "# Notes" >> README.md</li>
   <li>git init</li>
   <li>git add README.md</li>
   <li>git commit -m "first commit"</li>
