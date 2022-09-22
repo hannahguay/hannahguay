@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hannahguay
-- 👀 I’m interested in building functional and delightful user experiences.
 - 🌱 I’m currently learning JavaScript, Bash and other foundational skills.
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
