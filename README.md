@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hannahguay
-- 🌱 I’m currently learning JavaScript, Bash and other foundational skills.
+- 🌱 I’m currently learning JavaScript, Bash and other foundational skills through Promineo Tech's Front End Web Development course
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
 <h2>Collection of recurring code:</h2>
