@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript, Front End Technologies and ReactJS through Promineo Tech's Front End Web Development course
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
-<h2>Collection of recurring code:</h2>
+<h2>Collection of code I use often:</h2>
 <h3>Create new repository on the command line:</h3>
 <ul>
   <li>echo "# Notes" >> README.md</li>
