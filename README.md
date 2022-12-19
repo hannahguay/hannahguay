@@ -27,8 +27,10 @@ You can click the Preview link to take a look at your changes.
   <li>npm i jquery</li>
   <li>link bootstrap stylesheet:</li>
   <li>rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" </li>
+  <li>link bootstrap javascript:</li>
+  <li> <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script> </li>
   <li>link jquery javascript:</li>
   <li> <script src="node_modules/jquery/dist/jquery.js"></script> </li>
-  <li> <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script> </li>
+ 
 </ul>
 
