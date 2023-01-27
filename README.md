@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @hannahguay
-- 🌱 I’m currently learning JavaScript, Front End Technologies and ReactJS through Promineo Tech's Front End Web Development course
+- 🌱 I’m currently learning JavaScript, Front End Technologies and React through Montana Code School's Front End Web Development course
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
-<a href="https://github.com/hannahguay?tab=repositories&q=Week&type=&language=&sort="><h2>Monana Code School Projects</h2></a>
-
-
+<h2>Collections of Projects</h2>
+<a href="https://github.com/hannahguay?tab=repositories&q=Week&type=&language=&sort=">Monana Code School Projects</a>
 
 <h2>Collection of code I use often:</h2>
 <h3>Create new repository on the command line:</h3>
