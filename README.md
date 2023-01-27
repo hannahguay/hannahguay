@@ -21,7 +21,7 @@
 <h3>Install Bootstrap:</h3>
 <ul>
   <li>npm init</li>
-  <li>npm i bootstrap@4.4.1</li>
+  <li>npm i bootstrap</li>
   <li>npm i jquery</li>
   <li>link bootstrap stylesheet:</li>
   <li>rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" </li>
