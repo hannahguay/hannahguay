@@ -2,6 +2,10 @@
 - 🌱 I’m currently learning JavaScript, Front End Technologies and ReactJS through Promineo Tech's Front End Web Development course
 - 📫 How to reach me: hannah.n.guay@gmail.com
 
+<a href="https://github.com/hannahguay?tab=repositories&q=Week&type=&language=&sort="><h2>Monana Code School Projects</h2></a>
+
+
+
 <h2>Collection of code I use often:</h2>
 <h3>Create new repository on the command line:</h3>
 <ul>
@@ -13,8 +17,6 @@
   <li>git remote add origin git@github.com:hannahguay/ <em>name of project here</em></li>
   <li>git push -u origin main</li>
 </ul>
-
-<h3>Install Npm</h3>
 
 <h3>Install Bootstrap:</h3>
 <ul>
